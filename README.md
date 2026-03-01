@@ -1,3 +1,4 @@
 # calculator-demo
 this is my first git repository
-hello gay my name is priyank.
+hello gays my name is priyank.
+it is calculator.
